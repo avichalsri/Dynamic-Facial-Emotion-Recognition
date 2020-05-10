@@ -1,0 +1,5 @@
+angry
+happy
+neutral
+sad
+surprise
